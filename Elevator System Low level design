@@ -1,0 +1,29 @@
+Requirements for Elevator system 
+
+1  multiple elevator cars and floors in the building.
+
+2  can have a maximum of 15 floors and three elevators.
+
+3  can move up or down or be in an idle state.
+
+4 door can only be opened when it is in an idle state.
+
+5  passes through each floor.
+
+6  have buttons to call an elevator car and to specify whether the passenger wants to go up or down.
+
+7  should have buttons to go to every floor. There should be buttons to open or close the lift doors.
+
+8 elevator display screen is there outside 
+
+9 elvator display screen inside for capacity 
+
+10 panels and buttons are there on each floor.
+
+11 passengers can go to differennt or same floors 
+
+12 can control elevator and door movements 
+
+13 send suitable car to passenger 
+
+14 can carry max of 8 perrsons 
